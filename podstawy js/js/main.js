@@ -66,3 +66,4 @@ function wyswietl( _imie_, _nazwisko_) {
     console.log(_imie_ + " " + _nazwisko_);
 }
 wyswietl( imie, nazwisko );
+gnhf
